@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+header{
+    background-color: rgba(51,0,96,0.4);
+}
+
+.menus{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+}
