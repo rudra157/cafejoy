@@ -1,10 +1,10 @@
 import React from 'react'
-import Navbar from '../components/Navbar/Navbar.jsx'
+// import Navbar from '../components/Navbar/Navbar.jsx'
 
 function FoodPage() {
   return (
     <div>
-      <Navbar />
+      
       <h2>Products</h2>
     </div>
   )
