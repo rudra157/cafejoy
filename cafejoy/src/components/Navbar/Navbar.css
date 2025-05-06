@@ -13,6 +13,7 @@
 
 header{
     background-color: rgba(51,0,96,0.4);
+    padding: 2rem 0;
 }
 
 .menus{
@@ -36,4 +37,20 @@ nav ul li a {
     text-decoration: none;
     color: #fff;
     font-size: 1rem;
+    padding: 0.4rem 0.6rem;
+}
+
+nav ul li a.active{
+    background-color: #fff;
+    color: black;
+    border-radius: 5px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    font-size: 4rem;
+    color: #fff;
 }
