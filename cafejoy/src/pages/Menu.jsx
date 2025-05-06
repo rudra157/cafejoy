@@ -3,7 +3,7 @@ import React from 'react'
 function Menu() {
   return (
     <div>
-      Price List
+      Price 
     </div>
   )
 }
