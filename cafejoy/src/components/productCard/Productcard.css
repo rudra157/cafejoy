@@ -129,7 +129,7 @@ span {
 
     .product_box {
         width: 45%;
-        height: 65vh;
+        height: 46vh;
         padding: 2px;
         box-shadow: none;
     }
@@ -183,7 +183,7 @@ span {
 @media screen and (max-width: 376px){
     .product_box {
         width: 45%;
-        height: 66vh;
+        height: 52vh;
         padding: 2px;
         box-shadow: none;
     }
@@ -205,7 +205,7 @@ span {
 @media screen and (max-width: 320px){
     .product_box {
         width: 45%;
-        height: 67vh;
+        height: 57vh;
         padding: 2px;
         box-shadow: none;
     }
