@@ -3,6 +3,7 @@ import Productcard from './Productcard'
 import burgur_Img from '../images/burger.jpg'
 import coffee from '../images/coffee.webp'
 import icecream from '../images/icecream.webp'
+import './Productcard.css'
 
 const Card = () => {
   return (
@@ -19,7 +20,7 @@ const Card = () => {
         name="coffee"
         dis_price='₹120.00'
         price='₹179.00'
-        description='A warm hug in a cup — where creamy coffee meets a heart of art.'
+        description='A warm hug in a cup — where creamy beautiful designed coffee meets a heart of art.'
       />
       <Productcard
         image={icecream}
