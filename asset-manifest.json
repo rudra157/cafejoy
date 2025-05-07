@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cafejoy/static/css/main.537784c2.css",
+    "main.js": "/cafejoy/static/js/main.4b466334.js",
+    "static/js/453.1589b360.chunk.js": "/cafejoy/static/js/453.1589b360.chunk.js",
+    "static/media/choco.jpg": "/cafejoy/static/media/choco.6f0530c83b63c1de8d6d.jpg",
+    "static/media/GourmetPancakeStack.jpg": "/cafejoy/static/media/GourmetPancakeStack.4034ef0885d62f153697.jpg",
+    "static/media/VeggieCheesePasta.jpg": "/cafejoy/static/media/VeggieCheesePasta.59804b6525cdf4eac3c1.jpg",
+    "static/media/FalafelWrapCombo.jpg": "/cafejoy/static/media/FalafelWrapCombo.500a65be5ca36a3538c2.jpg",
+    "static/media/masala_garlic.jpg": "/cafejoy/static/media/masala_garlic.18b2763006a445c1dca3.jpg",
+    "static/media/bg.jpg": "/cafejoy/static/media/bg.fba1b4bcc77f1fddfbfc.jpg",
+    "static/media/mg.jpg": "/cafejoy/static/media/mg.08c757875ee581dd3f06.jpg",
+    "static/media/burger.jpg": "/cafejoy/static/media/burger.ef9ebbf33ef615a8ffeb.jpg",
+    "static/media/icecream.webp": "/cafejoy/static/media/icecream.608840b71af15c72a333.webp",
+    "static/media/coffee.webp": "/cafejoy/static/media/coffee.cab4e06707c6e8892f0e.webp",
+    "static/media/logo.png": "/cafejoy/static/media/logo.f2d4f2c7e74fd38e9383.png",
+    "index.html": "/cafejoy/index.html",
+    "main.537784c2.css.map": "/cafejoy/static/css/main.537784c2.css.map",
+    "main.4b466334.js.map": "/cafejoy/static/js/main.4b466334.js.map",
+    "453.1589b360.chunk.js.map": "/cafejoy/static/js/453.1589b360.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.537784c2.css",
+    "static/js/main.4b466334.js"
+  ]
+}
