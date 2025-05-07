@@ -1,11 +1,11 @@
 import React from 'react'
-// import Navbar from '../components/Navbar/Navbar.jsx'
+import Navbar from '../components/Navbar/Navbar.jsx'
 
 function Menu() {
   return (
     <div>
-      
-      <h2>Price</h2> 
+      <Navbar />
+      <h2>Online shoping</h2>
     </div>
   )
 }
