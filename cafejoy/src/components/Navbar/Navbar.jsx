@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../images/logo.svg';
+import logo from '../images/logo.png';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 import { FaBars, FaTimes } from 'react-icons/fa';
@@ -21,7 +21,7 @@ function Navbar() {
         <nav className={isOpen ? 'nav open' : 'nav'}>
           <ul>
             <li>
-              <Link to="/" onClick={toggleMenu}>Home</Link>
+              <Link to="/cafejoy" onClick={toggleMenu}>Home</Link>
             </li>
             <li>
               <Link to="/FoodPage" onClick={toggleMenu}>Menu</Link>
