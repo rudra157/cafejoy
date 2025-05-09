@@ -15,7 +15,7 @@ function App() {
         <Route path='Contact' element={<ContectUs />} />
       </Routes>
     </div>
-  );
+  ); 
 }
 
 export default App;
